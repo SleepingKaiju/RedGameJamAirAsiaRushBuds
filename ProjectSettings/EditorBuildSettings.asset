@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Stage1(Orang Hutan).unity
+    guid: 7b97369028001994cb6d0582215b8a36
+  - enabled: 1
+    path: Assets/Scenes/Stage2(Gajah).unity
+    guid: 8faf4676b875ec4498fb957772354d73
+  - enabled: 1
+    path: Assets/Scenes/Stage3(Bigi).unity
+    guid: b0149963e98eba241a2d9234043ea80e
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 8a2e0ce803eca1b41a58c1906328d05b
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: 53c86686bcecfac46a3f4b553ba182e7
+  m_configObjects: {}
